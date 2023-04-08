@@ -2,3 +2,4 @@ MY RESOLUTION
 - consistent study
 - Making some website with react and tailwind
 - Join community
+- Making project from scratch
